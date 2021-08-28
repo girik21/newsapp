@@ -1,4 +1,4 @@
-import Head from 'next/head';
+
 import { useRouter } from 'next/router';
 import styles from '../../styles/Feed.module.css';
 import { GiAsianLantern } from "react-icons/gi";
