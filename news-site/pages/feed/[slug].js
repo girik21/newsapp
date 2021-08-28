@@ -1,6 +1,6 @@
 
 import { useRouter } from 'next/router';
-import styles from '../../styles/Feed.module.css';
+import styles from '../../styles/feed.module.css';
 import { GiAsianLantern } from "react-icons/gi";
 import Link from "next/link";
 
