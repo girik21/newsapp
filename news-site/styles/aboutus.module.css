@@ -1,0 +1,43 @@
+.main {
+   
+    
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+    margin-top: 50px;
+}
+
+.main h1{
+
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+ 
+}
+
+
+
+
+.aboutus {
+    text-align: center;
+    
+  
+}
+
+.aboutus img {
+    width: 250px;
+    text-align: center;
+  border-radius: 100%;
+  display: inline-block;
+ 
+}
+
+.aboutus h3 {
+
+text-align: center;
+border-image: round;
+font-size: 25px;
+font-family: 'Times New Roman', Times, serif;
+
+
+}
