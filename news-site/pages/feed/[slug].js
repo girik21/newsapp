@@ -74,15 +74,10 @@ return (
              className={pageNumber === 5 ? styles.disabled : styles.active}>
            Next Page
           </div>
-
-
-
-
-
-
-                </div>
+ </div>
        </div>
     );
+    
 };
 
 
